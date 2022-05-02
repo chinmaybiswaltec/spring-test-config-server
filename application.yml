@@ -1,5 +1,5 @@
 db:
-  host: localhost-config-server
+  host: localhost-config-server-edited
   port: 9042
   username: foo
   password: bar
