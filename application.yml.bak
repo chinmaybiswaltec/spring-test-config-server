@@ -1,5 +1,0 @@
-db:
-  host: localhost
-  port: 9042
-  username: foo
-  password: bar
