@@ -1,5 +1,5 @@
 db:
-  host: localhost-config-server-updated-1
+  host: localhost-config-server-updated-2
   port: 9042
   username: foo
   password: bar
